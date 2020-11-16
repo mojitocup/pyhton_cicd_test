@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------
-# GitHub Action Workflow to Deploy Flask App to AWS ElasticBeanstalk
+# GitHub Action Workflow to Deploy Flask App to AWS ElasticBeanstalk 
 #---------------------------------------------------------------------
 
 name: CI-CD-Pipeline-to-AWS-ElasticBeastalk
